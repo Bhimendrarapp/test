@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "email": "yuvraj@test.com",
+      "name": "Yuvraj Nerli",
+      "password": "yuvraj@1234",
+      "id": 1
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Master Chef",
+      "address": "Neharu nagar Belgaum",
+      "contact": "4567877",
+      "id": 1
+    }
+  ]
+}
